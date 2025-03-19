@@ -9,7 +9,9 @@ Este es un proyecto simple en **HTML, CSS y JavaScript** que permite agregar nom
 - Ocultar la lista una vez se realice el sorteo.
 
 ## 📸 Capturas de Pantalla
-_Agrega aquí imágenes del proyecto si deseas._
+![Imagen de WhatsApp 2025-03-18 a las 23 17 39_762c40ad](https://github.com/user-attachments/assets/40385617-348c-4a42-9afc-0f65af606fed)
+![Imagen de WhatsApp 2025-03-18 a las 23 17 39_f737552a](https://github.com/user-attachments/assets/16034f27-ee11-4fa3-b205-d76948cd7cc8)
+._
 
 ## 🛠 Tecnologías Utilizadas
 - **HTML** → Estructura de la aplicación.
@@ -23,4 +25,4 @@ _Agrega aquí imágenes del proyecto si deseas._
 4. **Hacer clic en "Sortear amigo"** para obtener un nombre aleatorio.
 5. **Se ocultará la lista** y se mostrará el amigo secreto seleccionado.
 
-## 📂 Estructura del Proyecto
+
